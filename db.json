@@ -1,0 +1,66 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "Adidas NMD_R1",
+            "price": 199,
+            "image": "https://assets.adidas.com/images/w_600,h_600,f_auto,q_auto:sensitive,fl_lossy/00085dec90eb4e8794cda8270019643b_9366/NMD_R1_Shoes_White_B79759_01_standard.jpg",
+            "stock": 20
+        },
+        {
+            "id": 2,
+            "name": "Adidas Sleek",
+            "price": 299,
+            "image": "https://assets.adidas.com/images/w_600,h_600,f_auto,q_auto:sensitive,fl_lossy/58239918b0144ba5b922a9b9010f7f96_9366/Zapatilla_adidas_Sleek_Blanco_DB3258_01_standard.jpg",
+            "stock": 20
+        },
+        {
+            "id": 3,
+            "name": "Adidas Pharrell Williams",
+            "price": 199,
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/3a05df3501b0494ba7a6a8e300a3401c_9366/Tenis_Pharrell_Williams_Tennis_Hu_Blanco_B41793_01_standard.jpg",
+            "stock": 20
+        },
+        {
+            "id": 4,
+            "name": "Adidas Superstar",
+            "price": 270,
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/d4dd2144b22b41bfbbd5a7ff01674bb3_9366/Superstar_Shoes_White_C77153_01_standard.jpg",
+            "stock": 20
+        },
+        {
+            "id": 5,
+            "name": "Adidas Swift Run",
+            "price": 399,
+            "image": "https://assets.adidas.com/images/w_600,h_600,f_auto,q_auto:sensitive,fl_lossy/293c07a9879349cf87c1a8b700e52a51_9366/Swift_Run_Shoes_Black_AQ0863_01_standard.jpg",
+            "stock": 20
+        },
+        {
+            "id": 6,
+            "name": "Adidas Prophere",
+            "price": 299,
+            "image": "https://assets.adidas.com/images/w_600,h_600,f_auto,q_auto:sensitive,fl_lossy/15425e5291ec4491b03ba8c100cae939_9366/Tenis_PROPHERE_Negro_B37453_07_standard.jpg",
+            "stock": 20
+        },
+        {
+            "id": 7,
+            "name": "Adidas X_PRL",
+            "price": 259,
+            "image": "https://assets.adidas.com/images/w_600,h_600,f_auto,q_auto:sensitive,fl_lossy/c276d5ed5b7840cea957a80e00afdbe9_9366/Zapatilla_X_PLR_Negro_BY9260_01_standard.jpg",
+            "stock": 20
+        },
+        {
+            "id": 8,
+            "name": "Adidas Superstar Black",
+            "price": 270,
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/617aabac059b4350899da80b00cbd767_9366/Zapatilla_Superstar_Foundation_Negro_AF5666_01_standard.jpg",
+            "stock": 20
+        },
+        {
+            "id": 9,
+            "name": "Adidas Continental",
+            "price": 199,
+            "image": "https://assets.adidas.com/images/w_600,h_600,f_auto,q_auto:sensitive,fl_lossy/40d48eaa16c7439eb72da9e50143636d_9366/Zapatilla_Continental_Vulc_Negro_EF3524_01_standard.jpg",
+            "stock": 20
+        }
+    ]
+}
